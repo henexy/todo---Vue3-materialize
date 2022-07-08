@@ -1,4 +1,5 @@
-# task
+# Vue 3 + Materialize
+Мой тг: @henexy
 
 ## Project setup
 ```
